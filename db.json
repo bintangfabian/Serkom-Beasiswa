@@ -1,0 +1,124 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "fabian",
+      "email": "fabian@gmail.com",
+      "phoneNumber": "08123123134",
+      "semester": "5",
+      "ipk": "3.74",
+      "beasiswa": "Akademik",
+      "status": "Sudah Diverifikasi"
+    },
+    {
+      "id": "1730156980115",
+      "name": "bintang",
+      "email": "bintang@yahoo.co.id",
+      "phoneNumber": "08123867122",
+      "semester": "7",
+      "ipk": "3.36",
+      "beasiswa": "Non-Akademik",
+      "status": "Sudah Diverifikasi"
+    },
+    {
+      "id": "1730158194900",
+      "name": "laksma",
+      "email": "laksma@ittelkom-pwt.ac.id",
+      "phoneNumber": "0812312125",
+      "semester": "7",
+      "ipk": "3.54",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1730158355922",
+      "name": "putra",
+      "email": "putra@gmail.com",
+      "phoneNumber": "1239712941",
+      "semester": "8",
+      "ipk": "3.17",
+      "beasiswa": "Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1730159049611",
+      "name": "aksdads",
+      "email": "askuhdakh@gmail.com",
+      "phoneNumber": "192837190273",
+      "semester": "7",
+      "ipk": "3.26",
+      "beasiswa": "Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1730159082058",
+      "name": "bintang",
+      "email": "a@a.com",
+      "phoneNumber": "1273123214",
+      "semester": "7",
+      "ipk": "3.54",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1730159110330",
+      "name": "sdsadas",
+      "email": "a@a.com",
+      "phoneNumber": "2342343244",
+      "semester": "3",
+      "ipk": "3.56",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1730159374216",
+      "name": "as",
+      "email": "a@a.com",
+      "phoneNumber": "1231231245",
+      "semester": "6",
+      "ipk": "3.73",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1730159646243",
+      "name": "asdasd",
+      "email": "asd@gmail.com",
+      "phoneNumber": "1232131231",
+      "semester": "8",
+      "ipk": "3.57",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1730185358206",
+      "name": "dfg",
+      "email": "s@s.c",
+      "phoneNumber": "234567890987",
+      "semester": "7",
+      "ipk": "3.24",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": "1730295886088",
+      "name": "hasan",
+      "email": "hasan@gmail.com",
+      "phoneNumber": "08128357824",
+      "semester": "7",
+      "ipk": "3.15",
+      "beasiswa": "Non-Akademik",
+      "status": "Belum Diverifikasi"
+    },
+    {
+      "id": 1732093074171,
+      "name": "faiz",
+      "email": "faiz@gmail.com",
+      "phoneNumber": "98127398821",
+      "semester": "6",
+      "ipk": "3.29",
+      "beasiswa": "Akademik",
+      "status": "Belum Diverifikasi"
+    }
+  ]
+}
